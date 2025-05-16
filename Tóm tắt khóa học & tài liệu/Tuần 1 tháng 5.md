@@ -6,7 +6,7 @@
 - F: FAQ Creation - Tạo câu hỏi thường gặp giúp hệ thống chatbot hoạt động hiệu quả.
 - O: Organize Meetings - Ghi chú nhanh trong cuộc họp, lưu trữ thông tin quan trọng.
 - X: eXpert Discussions - Tạo podcast thảo luận, chia sẻ kiến thức trong nhóm.
-- A: AI Mindmap - Tạo sơ đồ mindmap cho các dự án AI.
+- A: AI Mindmap - Tạo sơ đồ mindmap cho các dự án AI. 
 - I: Intuitive Interface - Giao diện dễ sử dụng và trực quan.
 
 2.Ứng dụng Fireflies AI giúp tiết kiệm thời gian, cải thiện năng suất làm việc và tối ưu hóa quá trình ghi chép, phân tích cuộc họp, cụ thể:
